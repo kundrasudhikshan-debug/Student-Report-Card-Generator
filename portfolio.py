@@ -8,6 +8,8 @@ skills = ["Python", "Git", "Problem Solving"]
 print("\nName:", name)
 print("Age:", age)
 
+this is some bad code that i am writing to show git to some kiddo
+
 print("\nHobbies:")
 for hobby in hobbies:
     print("-", hobby)
