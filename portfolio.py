@@ -16,4 +16,7 @@ print("\nSkills:")
 for skill in skills:
     print("-", skill)
 
+visitor = input("\nEnter your name: ")
+print("Nice to meet you,", visitor)
+
 print("\nThank you for visiting my portfolio!")
